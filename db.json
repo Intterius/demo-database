@@ -7,5 +7,13 @@
       "id": "1"
     }
   ],
-  "users-posts": []
+  "users-posts": [
+    {
+      "title": "",
+      "content": "",
+      "user": "",
+      "time": "",
+      "id": "1"
+    }
+  ]
 }
